@@ -33,6 +33,5 @@ My name is Cesar Augusto, I'm 22 years old and I'm a software developer.
   
 <div align="center">
   <a href="https://github.com/Cesar19Augusto">
-  <!--<img>
-  <img>-->
+  <img height="180em" width="440em" src"https://github-readme-stats.vercel.app/api?username=Cesar19Augusto&show_icons=true&theme=transparent"/>
 </div>
