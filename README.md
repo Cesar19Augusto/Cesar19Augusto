@@ -5,7 +5,7 @@ Hi Dev 👋
 
 My name is Cesar Augusto, I'm 22 years old and I'm a software developer.
 
--🌱 I'm currently learning C#.
+-🌱 I'm currently learning JavaScript, ReactJS, TyperScript, C#.
 
 -💬 Studying with a focus on being a Fullstack.
 
@@ -22,6 +22,14 @@ My name is Cesar Augusto, I'm 22 years old and I'm a software developer.
 <!--JAVASCRIPT-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript_logo" width="40" height="40"/> </a>
+
+<!--React-->
+  <a href="https://react.dev/learn">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React_logo" width="40" height="40"/></a>
+
+<!--TypeScript-->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <!--C#-->
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/how-to/"> 
