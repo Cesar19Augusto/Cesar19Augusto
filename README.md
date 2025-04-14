@@ -6,8 +6,8 @@
 ## My name is Cesar Augusto
 ( HTML | CSS |Typescript | Javascript | React JS | Angular | C# ) 🚀
 - 🎓 Bachelor's degree in Computer Science
--🌱 I'm currently learning JavaScript, ReactJS, TyperScript, C#
--💬 Studying with a focus on being a Fullstack
+- 🌱 I'm currently learning JavaScript, ReactJS, TyperScript, C#.
+- 💬 Studying with a focus on being a Fullstack
 
 
 <div align="left">
