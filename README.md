@@ -1,4 +1,5 @@
 <h1>Hi Dev 👋</h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Cesar19Augusto/Curso_React_Rocketseat/tree/main)](https://github.com/Cesar19Augusto/Curso_React_Rocketseat/tree/main)
 [![Gmail Badge](https://img.shields.io/badge/-augustocesar875@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augustocesar875@gmail.com)](mailto:augustocesar875@gmail.com)
 
