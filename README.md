@@ -9,6 +9,9 @@
 - 🌱 I'm currently learning JavaScript, ReactJS, TyperScript, C#.
 - 💬 Studying with a focus on being a Fullstack
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=b2f2f7&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+repository:%29"/>
+</p>
 
 <div align="left">
   
