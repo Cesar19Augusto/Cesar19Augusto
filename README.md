@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-augustocesar875@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augustocesar875@gmail.com)](mailto:augustocesar875@gmail.com)
 
 ## My name is Cesar Augusto
-( HTML | CSS | Typescript | Javascript | React JS | Angular | C# ) 🚀
+( HTML | CSS | Typescript | Javascript | React JS | Angular | Java | C# ) 🚀
 - 🎓 Bachelor's degree in Computer Science
-- 🌱 I'm currently learning JavaScript, ReactJS, TyperScript, C#.
+- 🌱 I'm currently learning JavaScript, ReactJS, TyperScript, Java, C#.
 - 💬 Studying with a focus on being a Fullstack
 
 <p align="center">
