@@ -1,6 +1,6 @@
 <h1>Hi Dev 👋</h1>
 
-![Header](https://github.com/Cesar19Augosto/Cesar19Augosto/blob/main/img/github-header-image.png?raw=true)
+![image](https://github.com/user-attachments/assets/94843993-66b5-4793-97b4-42daf6d09574)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesaraugusto875/)](https://www.linkedin.com/in/cesaraugusto875/)
 [![Gmail Badge](https://img.shields.io/badge/-augustocesar875@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augustocesar875@gmail.com)](mailto:augustocesar875@gmail.com)
